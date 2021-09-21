@@ -1,7 +1,5 @@
 ### Olá, eu sou Eduardo Rauta 
 
-  <img align="right" alt="EBR-image" height="120" width="120" src="https://yt3.ggpht.com/yti/APfAmoG_0CFUUYbKo8SkfMoMhZ9_p2XaVS-i9VgZY8uU=s88-c-k-c0x00ffffff-no-rj-mo" style="border-radius: 50%;">
-
 - 🎓 Estou no 5º Período de Ciência da Computação...
 - 🛠 Eu atualmente estou procurando trabalhar com front-end...
 - 💻 Aprendendo ReactJS e React Native...
@@ -21,7 +19,8 @@
   <img align="center" alt="EBR-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="EBR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="EBR-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="EBR-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="EBR-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="EBR-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="EBR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
