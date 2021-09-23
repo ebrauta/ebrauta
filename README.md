@@ -27,9 +27,8 @@
   ## 
   
   <div> 
-    <a href="https://instagram.com/ebrauta" target="_blank"><img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" target="_blank"></a>
-      <!--<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
- 	  <a href = "mailto:ebrauta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardorauta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/ebrauta" target="_blank"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png" target="_blank"></a>
+ 	  <a href = "mailto:ebrauta@gmail.com"><img src="https://cdn-icons-png.flaticon.com/32/888/888853.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardorauta/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/32/124/124011.png" target="_blank"></a> 
  
 </div>
